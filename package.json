@@ -7,6 +7,9 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Tajul Islam Bipul",
+  "homepage": "https://bipul-dev.github.io/portfolio-website",
   "license": "ISC",
-  "homepage": "https://bipul-dev.github.io/portfolio-website"
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
